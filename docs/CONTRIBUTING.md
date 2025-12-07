@@ -22,9 +22,11 @@ Developing
 - [jq](https://stedolan.github.io/jq/)
 - [curl](https://curl.haxx.se/)
 - [npm](https://www.npmjs.com/)
+- [electron-forge]()
 
 ```sh
-pip install -r requirements.txt
+sudo npm install -g @electron-forge
+npm install
 ```
 
 You might need to run this with `sudo` or administrator permissions.
