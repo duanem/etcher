@@ -176,8 +176,8 @@ systems we support.
 
 Don't hesitate to get in touch if you have any questions or need any help!
 
-[ARCHITECTURE]: https://github.com/balena-io/etcher/blob/master/docs/ARCHITECTURE.md
-[COMMIT-GUIDELINES]: https://github.com/balena-io/etcher/blob/master/docs/COMMIT-GUIDELINES.md
+[ARCHITECTURE]: docs/ARCHITECTURE.md
+[COMMIT-GUIDELINES]: docs/COMMIT-GUIDELINES.md
 [EditorConfig]: http://editorconfig.org
 [shrinkwrap]: https://docs.npmjs.com/cli/shrinkwrap
 [hxd]: https://github.com/jhermsmeier/hxd
