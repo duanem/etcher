@@ -1,5 +1,26 @@
 # Etcher
 
+## 2025-12-06 Duane Murphy
+
+I tried to build and run Etcher. The goal was to add a proper authentication process
+for the "flasher" module (at least I think that's what it's called).
+
+Many problems
+
+1. The documentation is very out of date for developers.
+2. I eventually figured out that the process is npm driven (npm install is required)
+3. The app still crashes with unable to launch the flasher sidecar or some such
+4. There are several build errors related to missing applications. 
+   But all the application names are placeholders so no joy for debugging
+
+I decided to stop. 
+
+Etcher has NEVER had a proper authentication system. It's not like I'm using etcher everyday. 
+I just thought it would be an interesting side project. 
+
+Not now. Too much work. 
+
+
 > Flash OS images to SD cards & USB drives, safely and easily.
 
 Etcher is a powerful OS image flasher built with web technologies to ensure
